@@ -5,7 +5,7 @@
 # puts "I'm fine"
 
 def say(words)
-  puts words
+  puts words + '.'
 end
 
 say("Hello")
